@@ -8,7 +8,9 @@
 
 - Become a competent JavaScript Developer
 
-- Understand **HTML**, **CSS** and **Python**
+- I have learned about **HTML**, **CSS**, **Bootstrap** and **JavaScript**
+
+- Now I am learning about **React.js**
 
 - Be Curious,Investigative,Gain Knowledge and Learning 
 
